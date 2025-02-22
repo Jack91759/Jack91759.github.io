@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jayden's Website</title>
+    <title>Jacob's Website</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to Jayden's Site</h1>
+        <h1>Welcome to Jacob's Site</h1>
         <nav>
             <a href="index.html">Home</a>
             <a href="updates.html">Updates</a>
@@ -17,12 +17,11 @@
     </header>
     <section>
         <h2>About Me</h2>
-        <p>Jayden - Developer, Musician, and Tech Enthusiast</p>
+        <p>Jacob - Developer, Musician, and Tech Enthusiast</p>
         <h2>Projects</h2>
         <ul>
-            <li><a href="https://cloudcache.com">CloudCache</a></li>
-            <li><a href="https://syncpad.com">SyncPad</a></li>
-            <li><a href="https://streamly.com">Streamly</a></li>
+            <li><a href="https://discord.gg/HrQGNS5AKQ">Discord</a></li>
+            <li><a href="https://calendly.com/idapublic7/30min">Meetings</a></li>
         </ul>
     </section>
 </body>
